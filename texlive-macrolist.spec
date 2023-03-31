@@ -1,6 +1,6 @@
 Name:		texlive-macrolist
 Version:	60139
-Release:	1
+Release:	2
 Summary:	List operations for LaTeX2e
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/macrolist
