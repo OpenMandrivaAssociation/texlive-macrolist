@@ -3,7 +3,7 @@ Version:	60139
 Release:	2
 Summary:	List operations for LaTeX2e
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/macrolist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/macrolist
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/macrolist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/macrolist.doc.r%{version}.tar.xz
